@@ -1,0 +1,3 @@
+This script connects to the Twitter Streaming API and
+collect users tweets and stores then in a local MySQL
+database.
